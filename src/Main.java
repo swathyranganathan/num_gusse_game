@@ -16,7 +16,7 @@ public class Main {
         +1 : provide the result is a random integer between 1 and 100.*/
 
        // System.out.println("random num is:" + randomnum);
-//      calculator code
+
         int trycount=0;
         Scanner scanner = new Scanner(System.in);
         while (true) {
